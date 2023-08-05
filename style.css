@@ -246,7 +246,7 @@ nav ul li a:hover::after{
     background: #262626;
     padding:40px;
     font-weight: 300;
-    font-size: 13px;
+    font-size: 16px;
     border-right:10px;
     border-radius: 10px;
     transition: background 0.5s, transform 0.5s;
