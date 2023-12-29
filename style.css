@@ -260,9 +260,10 @@ nav ul li a:hover::after{
 
 
 .services-list div h2{
-    font-size: 32px;
-    font-weight: 500;
+    font-size: 28px;
+    font-weight: 300;
     margin-bottom: 15px;
+    text-align:center;
 }
 
 
