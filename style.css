@@ -142,6 +142,17 @@ nav ul li a:hover::after{
 
 
 
+
+.about-col-2{
+    text-align: center;
+        display: flex;
+    justify-content: center;
+    flex:direction: column;
+    
+
+}
+
+
 .about-col-2 p{
     text-align: center;
     
