@@ -133,7 +133,7 @@ nav ul li a:hover::after{
 .row{
     display: flex;
     justify-content: center;
-    flex:direction: column;
+    flex:direction: row;
 }
 
 
@@ -145,10 +145,7 @@ nav ul li a:hover::after{
 
 .about-col-2{
     text-align: center;
-        display: flex;
-    justify-content: center;
-    flex:direction: row;
-    
+   
 
 }
 
