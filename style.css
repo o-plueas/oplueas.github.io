@@ -299,6 +299,7 @@ nav ul li a:hover::after{
     position:absolute;
     top:20px;
     right:50%;
+    color:white;
 
 
 }
