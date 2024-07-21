@@ -298,10 +298,8 @@ nav ul li a:hover::after{
     
 
 }
-.services-list .card .port-img .c-head{
-    position:absolute;
-    top:20px;
-    right:50%;
+.services-list .card .t-head{
+
     color:white;
 
 
