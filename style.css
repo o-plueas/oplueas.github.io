@@ -269,8 +269,7 @@ nav ul li a:hover::after{
 .services-list .card .text{
     width:100%;
     height:0;
-/*     background:linear-gradient(rgba(0,0,0,0.6), #ff004f) ; */
-    background-color:red;
+    background:linear-gradient(rgba(0,0,0,0.6), #ff004f) ;
     border-radius: 10px;
     position:absolute;
     left:0;
