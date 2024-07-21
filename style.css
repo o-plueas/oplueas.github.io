@@ -266,7 +266,7 @@ nav ul li a:hover::after{
 
 }
 
-.services-list div .text{
+.services-list .card .text{
     width:100%;
     height:0;
     background:linear-gradient(rgba(0,0,0,0.6), #ff004f) ;
@@ -287,7 +287,7 @@ nav ul li a:hover::after{
 }
 
 
-.services-list div .port-img img{
+.services-list .card .port-img img{
     width:100%;
     height:100%;
     object-fit:contain;
@@ -296,14 +296,14 @@ nav ul li a:hover::after{
 
 }
 
-.services-list div i{
+.services-list .card i{
     font-size: 50px;
     margin-bottom: 30px;
 }
 
 
 
-.services-list div h2{
+.services-list .card h2{
     font-size: 28px;
     font-weight: 300;
     margin-bottom: 15px;
@@ -311,12 +311,12 @@ nav ul li a:hover::after{
 }
 
 
-.services-list div h3{
+.services-list .card h3{
    
     margin: 10px 0;
 }
 
-.services-list div a{
+.services-list .card a{
     text-decoration: none;
     color:#fff;
     font-size: 12px;
@@ -325,9 +325,11 @@ nav ul li a:hover::after{
 }
 
 
-.services-list div:hover{
-   background: #ff004f
-   transform: translateY(-10px);
+.services-list card:hover .text{
+/*    background: #ff004f
+   transform: translateY(-10px); */
+        height: 100%;
+
 }
 
 #portfolio{
