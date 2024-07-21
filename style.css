@@ -295,6 +295,13 @@ nav ul li a:hover::after{
     
 
 }
+.services-list .card .c-head{
+    position:absolute;
+    top:20px;
+    right:50%;
+
+
+}
 
 .services-list .card i{
     font-size: 50px;
