@@ -263,6 +263,12 @@ nav ul li a:hover::after{
 
 }
 
+.services-list div .text{
+    opacity:0;
+
+
+}
+
 
 .services-list div .port-img img{
     width:100%;
