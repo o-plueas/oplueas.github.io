@@ -428,7 +428,7 @@ nav ul li a:hover::after{
     display: block;
     margin: 50px auto;
     width: fit-content;
-    border:1px solid #ff004f;
+    border:1px solid #c20404;
     padding: 14px 50px;
     border-radius: 6px;
     text-decoration: none;
@@ -439,7 +439,9 @@ nav ul li a:hover::after{
 } 
 
 .btn:hover{
-    background: #c20404;
+    background: white;
+    color:black;
+    outline: 1px solid #c20404;
 }
 
 
