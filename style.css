@@ -439,9 +439,8 @@ nav ul li a:hover::after{
 } 
 
 .btn:hover{
-    background: white;
-    color:black;
-    outline: 1px solid #c20404;
+    background: c20404;
+   
 }
 
 
