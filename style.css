@@ -226,6 +226,10 @@ nav ul li a:hover::after{
     display:block;
 }
 
+.p-txt{
+    margin-bottom:2px;
+}
+
 /* -----------------------------SERVICES */
 
 
