@@ -566,7 +566,13 @@ form .btn2{
 }
 
 form .btn2:hover{
-    background-color:#fff;
+/*     background-color:#fff;
+     color:black;
+    outline: 1px solid #c20404; */
+}
+
+form .btn3:hover{
+     background-color:#fff;
      color:black;
     outline: 1px solid #c20404;
 }
