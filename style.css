@@ -583,6 +583,7 @@ form .btn3:hover{
 
 #site-btn{
     background:white;
+    color:#c20404;
 
 
 .copyright{
@@ -626,7 +627,8 @@ nav .fas{
 
 @media only screen and (max-width:600px){
     #header{
-        background-image: url(imagess/oplueas\ photo1.jpg);
+/*         background-image: url(imagess/oplueas\ photo1.jpg); */
+        backgound-image: unset;
         height:50vh;
     }
         
