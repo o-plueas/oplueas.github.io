@@ -628,9 +628,9 @@ nav .fas{
 @media only screen and (max-width:600px){
     #header{
         background-image: url(imagess/oplueas\ photo1.jpg);
-        backgound-image: unset;
         height:50vh;
         visibility:hidden;
+        background-color:red;
     }
         
     .header-text{
