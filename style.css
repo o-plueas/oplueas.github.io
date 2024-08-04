@@ -108,12 +108,12 @@ nav ul li a:hover::after{
     font-size: 30px;
 }
 
-.-text h1{
+.text h1{
     font:60px;
     margin-top:20px;
 }
 
-.-text h1 span{
+.text h1 span{
     color:#c20404;
 }
 
