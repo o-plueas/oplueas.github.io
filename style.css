@@ -629,6 +629,7 @@ nav .fas{
     #header{
         background-image: url(imagess/oplueas\ photo1.jpg);
         height:50vh;
+        visibility:hidden;
     }
         
     .header-text{
@@ -777,7 +778,7 @@ nav .fas{
 
 .services-list .card .text{
 
-    padding:5px 10pxpx;
+    padding:5px 10px;
 
 }
 
@@ -952,7 +953,11 @@ font-size:22px;
     }
 
 
+.services-list .card .text{
 
+    padding:5px 10px;
+
+}
 
 
 
