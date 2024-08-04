@@ -629,7 +629,6 @@ nav .fas{
     #header{
         background-image: url(imagess/oplueas\ photo1.jpg);
         height:50vh;
-        background-color:red;
     }
         
     .header-text{
@@ -646,6 +645,7 @@ nav .fas{
         font:30px;
         margin-top:20px;
         z-index: 90;
+        color:red;
     }
 
   
