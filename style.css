@@ -645,7 +645,6 @@ nav .fas{
         font:30px;
         margin-top:20px;
         z-index: 90;
-        color:red;
     }
 
   
@@ -771,6 +770,19 @@ nav .fas{
     margin-bottom:20px;
     
 }
+
+
+
+
+
+.services-list .card .text{
+
+    padding:5px 10pxpx;
+
+}
+
+
+    
 
 .services-list .card .port-img{
     width:100%;
