@@ -3,6 +3,7 @@
     padding:0;
     font-family: Poppins, sans-serif;
     box-sizing: border-box;
+    font-size:16px;
 }
 
 html{
@@ -43,7 +44,7 @@ nav {
     z-index: 90;
 }
 
-#header img{
+# img{
     overflow: hidden;
 
     left:0;
@@ -103,17 +104,17 @@ nav ul li a:hover::after{
 }
 
 
-.header-text{
+.text{
     margin-top: 20%;
     font-size: 30px;
 }
 
-.header-text h1{
+.-text h1{
     font:60px;
     margin-top:20px;
 }
 
-.header-text h1 span{
+.-text h1 span{
     color:#c20404;
 }
 
@@ -212,7 +213,7 @@ nav ul li a:hover::after{
 
 .tab-contents ul li span{
     color:#c20404;
-    font-size: 14px;
+    font-size: 18px;
 
 }
 
@@ -254,7 +255,7 @@ nav ul li a:hover::after{
     height:350px;
     background: #000;
     font-weight: 300;
-    font-size: 16px;
+    font-size: 18px;
     border-right:10px;
     border-radius: 10px;
     transition: background 0.5s, transform 0.5s;
@@ -287,7 +288,7 @@ nav ul li a:hover::after{
     justify-content: center;
     flex-direction: column;
     text-align: justify;
-    font-size: 14px;
+    font-size: 16px;
     transition: height 0.5s;
 
 }
@@ -332,7 +333,7 @@ nav ul li a:hover::after{
 .services-list .card .text a{
     text-decoration: none;
     color:#fff;
-    font-size: 12px;
+    font-size: 14px;
     margin-top:20px;
     display:inline-block;
 }
@@ -593,7 +594,7 @@ form .btn3:hover{
     background: #262626;
     font-weight: 300;
     margin-top: 20px;
-    font-size: 10px;
+    font-size: 12px;
 }
 
 
@@ -629,12 +630,11 @@ nav .fas{
     #header{
         background-image: url(imagess/oplueas\ photo1.jpg);
         height:50vh;
-        visibility:hidden;
     }
         
     .header-text{
         margin-top: 60%;
-        font-size: 10px;
+        font-size: 14px;
     }
 
     .headtext{
@@ -733,11 +733,11 @@ nav .fas{
     }
 
     .about-col-2{
-        font-size: 14px;
+        font-size: 16px;
     }
 
     .tab-links{
-        font-size: 16px;
+        font-size: 17px;
         margin-right: 20px;
     }
 
@@ -746,7 +746,7 @@ nav .fas{
     }
 
     .copyright{
-        font-size: 15px;
+        font-size: 14px;
     }
 
 
@@ -783,6 +783,7 @@ nav .fas{
 .services-list .card .text{
 
     padding:5px 10px;
+    
 
 }
 
@@ -847,7 +848,7 @@ font-size:22px;
         
     .header-text{
         margin-top: 60%;
-        font-size: 10px;
+        font-size: 14px;
     }
 
     .headtext{
