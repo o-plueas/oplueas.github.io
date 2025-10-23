@@ -26,16 +26,7 @@ body{
   
     
 }
-.header-text {
-    text-align: center;
-    padding: 20px;
-}
 
-.headtext {
-    font-size: 1.5rem;
-    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
-    color: #fff;
-    margin-bottom: 20px;
 }
 
 .header-text h1 {
@@ -47,51 +38,69 @@ body{
     margin-bottom: 10px;
 }
 
-.header-text h1 span {
-    color: #c20404;
-    animation: colorPulse 2s ease-in-out infinite alternate;
-    text-shadow: 
-        0 0 10px #c20404,
-        0 0 20px #c20404,
-        0 0 30px #ff0000,
-        2px 2px 4px rgba(0, 0, 0, 0.7);
+.header-text {
+    text-align: center;
+    padding: 20px;
 }
 
-/* Color animation */
-@keyframes colorPulse {
+.headtext {
+    font-size: 1.5rem;
+    text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.8);
+    color: #ffffff;
+    animation: fadeInOut 3s ease-in-out infinite;
+}
+
+.header-text h1 {
+    font-size: 3rem;
+    color: #ffffff;
+    text-shadow: 
+        3px 3px 6px rgba(0, 0, 0, 0.9),
+        0 0 20px rgba(0, 0, 0, 0.6);
+}
+
+.header-text h1 span {
+    animation: fieryText 1.5s ease-in-out infinite alternate;
+}
+
+/* Fiery red animation */
+@keyframes fieryText {
     0% {
         color: #c20404;
         text-shadow: 
-            0 0 10px #c20404,
-            0 0 20px #c20404,
-            0 0 30px #ff0000,
-            2px 2px 4px rgba(0, 0, 0, 0.7);
+            0 0 5px #c20404,
+            0 0 10px #ff0000,
+            0 0 15px #ff6b6b,
+            3px 3px 6px rgba(0, 0, 0, 0.9);
+    }
+    50% {
+        color: #ff0000;
+        text-shadow: 
+            0 0 10px #ff0000,
+            0 0 20px #ff4757,
+            0 0 30px #ff6b6b,
+            3px 3px 6px rgba(0, 0, 0, 0.9);
     }
     100% {
         color: #ff6b6b;
         text-shadow: 
-            0 0 15px #ff6b6b,
-            0 0 25px #ff0000,
-            0 0 35px #ff4757,
-            2px 2px 4px rgba(0, 0, 0, 0.7);
+            0 0 5px #ff6b6b,
+            0 0 10px #ff0000,
+            0 0 15px #c20404,
+            3px 3px 6px rgba(0, 0, 0, 0.9);
     }
 }
 
-/* Additional animation for the main text */
-.header-text h1 {
-    animation: subtleGlow 3s ease-in-out infinite alternate;
-}
-
-@keyframes subtleGlow {
-    0% {
-        text-shadow: 
-            2px 2px 4px rgba(0, 0, 0, 0.7),
-            0 0 10px rgba(0, 0, 0, 0.5);
+/* Subtle fade for the subtitle */
+@keyframes fadeInOut {
+    0%, 100% {
+        opacity: 0.8;
+        text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.8);
     }
-    100% {
+    50% {
+        opacity: 1;
         text-shadow: 
-            2px 2px 6px rgba(0, 0, 0, 0.8),
-            0 0 15px rgba(255, 255, 255, 0.2);
+            2px 2px 12px rgba(0, 0, 0, 0.9),
+            0 0 10px rgba(255, 255, 255, 0.1);
     }
 }
 
@@ -1090,6 +1099,7 @@ font-size:22px;
     margin-top: -40px;
     display: block;
 }
+
 
 
 
