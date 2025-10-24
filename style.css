@@ -703,7 +703,7 @@ nav .fas{
 @media only screen and (max-width:600px){
     #header{
         background-image: url(imagess/oplueas\ photo1.jpg);
-        height:60vh;
+        height:75vh;
         margin-bottom:30px;
         background-color:red;
     }
@@ -1129,6 +1129,7 @@ font-size:22px;
     margin-top: -40px;
     display: block;
 }
+
 
 
 
