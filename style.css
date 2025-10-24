@@ -30,17 +30,14 @@ body{
 }
 
 .header-text h1 {
-    font-size: 3rem;
     color: #fff;
     text-shadow: 
         2px 2px 4px rgba(0, 0, 0, 0.7),
         0 0 10px rgba(0, 0, 0, 0.5);
-    margin-bottom: 10px;
 }
 
 .header-text {
     text-align: center;
-    padding: 20px;
 }
 
 .headtext {
@@ -51,7 +48,6 @@ body{
 }
 
 .header-text h1 {
-    font-size: 3rem;
     color: #ffffff;
     text-shadow: 
         3px 3px 6px rgba(0, 0, 0, 0.9),
@@ -1099,6 +1095,7 @@ font-size:22px;
     margin-top: -40px;
     display: block;
 }
+
 
 
 
