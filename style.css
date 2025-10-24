@@ -705,12 +705,13 @@ nav .fas{
         background-image: url(imagess/oplueas\ photo1.jpg);
         height:75vh;
         margin-bottom:50px;
-        background-color:red;
     }
         
     .header-text{
         margin-top: 60%;
         font-size: 14px;
+        background-color:red;
+
     }
 
     .headtext{
@@ -1130,6 +1131,7 @@ font-size:22px;
     margin-top: -40px;
     display: block;
 }
+
 
 
 
