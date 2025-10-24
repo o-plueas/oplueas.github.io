@@ -20,7 +20,7 @@ body{
     background-image: url(./imagess/oplueasimg-br.png);
    /** background-size: 40%;**/
    background-position:center;
-    background-size: 100% 50%;
+    background-size: cover;
    /** background-position-x: right;**/
     background-repeat: no-repeat;
   
@@ -39,6 +39,8 @@ body{
 
 .header-text {
     text-align: center;
+    margin-top:50px;
+    padding:10px;
 }
 
 .headtext {
@@ -705,7 +707,7 @@ nav .fas{
         background-image: url(imagess/oplueas\ photo1.jpg);
         height:75vh;
         margin-bottom:50px;
-            background-size: cover;
+        background-size: cover;
 
     }
         
@@ -1135,6 +1137,7 @@ font-size:22px;
     margin-top: -40px;
     display: block;
 }
+
 
 
 
