@@ -37,7 +37,7 @@ body{
   height: 100vh;
   background-image: url(./imagess/oplueasimg-br.png);
   background-size: cover;
-  background-position: center 40%;
+  background-position: 100% 40%;
   background-repeat: no-repeat;
   display: flex;
   flex-direction: column;
@@ -57,7 +57,7 @@ body{
     text-align: center;
     margin-top:100px;
     padding:10px;
-    background-color:black;
+    /* background-color:black; */
     height:500px;
     display: flex;
 flex-direction: column;
@@ -1160,6 +1160,7 @@ font-size:22px;
     margin-top: -40px;
     display: block;
 }
+
 
 
 
