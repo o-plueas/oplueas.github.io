@@ -45,6 +45,8 @@ body{
     height:500px;
     display:flex;
     flex-direction:column;
+    align-items:center;
+    justify-content:center;
 }
 
 .headtext {
@@ -1141,6 +1143,7 @@ font-size:22px;
     margin-top: -40px;
     display: block;
 }
+
 
 
 
