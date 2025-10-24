@@ -19,7 +19,7 @@ body{
     height:100vh;
     background-image: url(./imagess/oplueasimg-br.png);
    /** background-size: 40%;**/
-   background-position:center 80%;
+   background-position:80% center;
     background-size: cover;
    /** background-position-x: right;**/
     background-repeat: no-repeat;
@@ -1141,6 +1141,7 @@ font-size:22px;
     margin-top: -40px;
     display: block;
 }
+
 
 
 
