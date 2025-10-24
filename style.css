@@ -44,10 +44,11 @@ body{
     padding:10px;
     background-color:black;
     height:500px;
-    display:flex;
-    flex-direction:column;
-    align-items:center;
-    justify-content:center;
+    display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: flex-end;
+gap: 20px; /* Space between items */
 }
 
 .headtext {
@@ -1144,6 +1145,7 @@ font-size:22px;
     margin-top: -40px;
     display: block;
 }
+
 
 
 
