@@ -714,7 +714,7 @@ nav .fas{
     .header-text{
         margin-top: 60%;
         font-size: 14px;
-        background-color:red;
+        background-color:black;
 
     }
 
@@ -756,7 +756,7 @@ nav .fas{
     padding:40px 0;
     color:#ababab;
     margin-top:40px 0px;
-    background-color:blue;
+    /* background-color:blue; */
 
 }
 
@@ -1137,6 +1137,7 @@ font-size:22px;
     margin-top: -40px;
     display: block;
 }
+
 
 
 
