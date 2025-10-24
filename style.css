@@ -20,7 +20,7 @@ body{
     background-image: url(./imagess/oplueasimg-br.png);
    /** background-size: 40%;**/
    background-position:center;
-    background-size: 80% 50%;
+    background-size: 100% 50%;
    /** background-position-x: right;**/
     background-repeat: no-repeat;
   
@@ -703,8 +703,10 @@ nav .fas{
 @media only screen and (max-width:700px){
     #header{
         background-image: url(imagess/oplueas\ photo1.jpg);
-        height:60vh;
+        height:75vh;
         margin-bottom:50px;
+            background-size: cover;
+
     }
         
     .header-text{
@@ -1133,6 +1135,7 @@ font-size:22px;
     margin-top: -40px;
     display: block;
 }
+
 
 
 
