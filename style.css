@@ -704,6 +704,7 @@ nav .fas{
     #header{
         background-image: url(imagess/oplueas\ photo1.jpg);
         height:60vh;
+        margin-bottom:30px;
     }
         
     .header-text{
@@ -1139,6 +1140,7 @@ font-size:22px;
     margin-top: -40px;
     display: block;
 }
+
 
 
 
