@@ -20,7 +20,7 @@ body{
     background-image: url(./imagess/oplueasimg-br.png);
    /** background-size: 40%;**/
    background-position:center;
-    background-size: cover;
+    background-size: 80% 50%;
    /** background-position-x: right;**/
     background-repeat: no-repeat;
   
@@ -1129,6 +1129,7 @@ font-size:22px;
     margin-top: -40px;
     display: block;
 }
+
 
 
 
