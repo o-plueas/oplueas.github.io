@@ -42,6 +42,9 @@ body{
     margin-top:100px;
     padding:10px;
     background-color:black;
+    height:500px;
+    display:flex;
+    flex-direction:column;
 }
 
 .headtext {
@@ -1138,6 +1141,7 @@ font-size:22px;
     margin-top: -40px;
     display: block;
 }
+
 
 
 
