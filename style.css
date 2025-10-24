@@ -20,7 +20,7 @@ body{
     padding-top:30px;
     background-image: url(./imagess/oplueasimg-br.png);
    /** background-size: 40%;**/
-   background-position: center 40%;
+   background-position: center center;
     background-size: contain;
    /** background-position-x: right;**/
     background-repeat: no-repeat;
@@ -1150,6 +1150,7 @@ font-size:22px;
     margin-top: -40px;
     display: block;
 }
+
 
 
 
