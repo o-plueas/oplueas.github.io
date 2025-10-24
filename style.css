@@ -14,35 +14,24 @@ body{
     color: #fff;
 }
 
-/* #header{
+ #header{
      width:100%;
     height:100vh;
     padding-top:30px;
     background-image: url(./imagess/oplueasimg-br.png);
    /** background-size: 40%;**/
    background-position: center 40%;
-    background-size: cover;
+    background-size: contain;
    /** background-position-x: right;**/
     background-repeat: no-repeat;
    
     
 
 
-} */
+} 
 
 
 
-#header {
-  width: 100%;
-  height: 100vh;
-  background-image: url(./imagess/oplueasimg-br.png);
-  background-size: contain;
-  background-position: center;
-  background-repeat: no-repeat;
-  display: flex;
-  flex-direction: column;
-  justify-content: flex-start; /* aligns content from top */
-}
 
 
 .header-text h1 { 
@@ -1160,6 +1149,7 @@ font-size:22px;
     margin-top: -40px;
     display: block;
 }
+
 
 
 
