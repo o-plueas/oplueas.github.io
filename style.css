@@ -705,6 +705,7 @@ nav .fas{
         background-image: url(imagess/oplueas\ photo1.jpg);
         height:60vh;
         margin-bottom:30px;
+        background-color:red;
     }
         
     .header-text{
@@ -905,19 +906,6 @@ font-size:22px;
 
 
 
-.headtext {
-    font-size:0.8rem;
-    
-    
-}
-
-
-
-.head-text h1{
-    font-size:0.5rem;
-    
-    
-}
 
 
 
@@ -1140,6 +1128,7 @@ font-size:22px;
     margin-top: -40px;
     display: block;
 }
+
 
 
 
