@@ -1053,6 +1053,7 @@ font-size:22px;
     nav ul li{
     display:block;
     margin: 25px;
+        
     }
 
     nav ul li .fas{
@@ -1148,6 +1149,10 @@ font-size:22px;
 
 
 
+html, body {
+  overflow-x: hidden;
+  width: 100%;
+}
 
 
 #msg{
@@ -1155,6 +1160,7 @@ font-size:22px;
     margin-top: -40px;
     display: block;
 }
+
 
 
 
