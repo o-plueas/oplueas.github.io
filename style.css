@@ -1149,17 +1149,20 @@ font-size:22px;
 
 
 
-html, body {
+body {
+    margin: 0px; 
+    padding:0px;
   width: 100%;
-  overflow-x: hidden;
-  overflow-y: auto; /* ensures vertical scrolling works normally */
-  min-height: 100%;
+  /* overflow-x: hidden; */
+  /* overflow-y: auto; /* ensures vertical scrolling works normally */ */
+  /* height: 100%; */
 }
 #msg{
     color:#61b752;
     margin-top: -40px;
     display: block;
 }
+
 
 
 
