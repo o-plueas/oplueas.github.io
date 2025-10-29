@@ -743,6 +743,8 @@ nav .fas{
     .from{
     width:100%;
      background-color:red;
+        margin-left:0px;
+        margin-right:0px;
 
     }
 
@@ -1184,6 +1186,7 @@ body {
     margin-top: -40px;
     display: block;
 }
+
 
 
 
