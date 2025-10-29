@@ -735,6 +735,8 @@ nav .fas{
     header-text div{
          height:300px;
          width:400px;
+                 background-color:red;
+
     }
 
     .headtext{
@@ -776,6 +778,8 @@ nav .fas{
     color:#ababab;
     margin-top:40px 0px;
     /* background-color:blue; */
+             background-color:red;
+
 
 }
 
@@ -860,6 +864,8 @@ nav .fas{
 
     #services{
         margin-top: 0;
+                 background-color:red;
+
     }
 
 
@@ -868,6 +874,7 @@ nav .fas{
     grid-template-columns:auto;
     gap:0;
     
+         background-color:red;
 
 }
 
@@ -876,7 +883,8 @@ nav .fas{
     width:100%;
     margin:0;
     margin-bottom:20px;
-    
+             background-color:red;
+
 }
 
 
@@ -985,6 +993,8 @@ font-size:22px;
     .header-text{
         margin-top: 60%;
         font-size: 14px;
+                 background-color:red;
+
     }
 
     .headtext{
@@ -995,7 +1005,8 @@ font-size:22px;
 
         font:30px;
         margin-top:20px;
-        z-index: 90;
+        z-index: 90;         background-color:red;
+
     }
 
   
@@ -1163,6 +1174,7 @@ body {
     margin-top: -40px;
     display: block;
 }
+
 
 
 
